@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
     // Take input 
+    // test push code
      int n, q ; cin >> n >> q;
 
      int arry[n];
